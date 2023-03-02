@@ -1,0 +1,86 @@
+{
+  "aa1d0e269e74d65a79fe13466c440e62ccd6aa2d.docx": {
+    "title": "Accessibility_statement_Intro_Data_Quality.docx",
+    "description": "Accessibility statement for intro to data quality course",
+    "tags": [
+      {
+        "title": "DQHub",
+        "_id": "6009728e680ed409e2f97e65"
+      },
+      {
+        "title": "Data Quality",
+        "_id": "6009728b680ed409e2f97e64"
+      }
+    ]
+  },
+  "7c50b509cd1cd81031b23ca5c56b8143bcebb02b.htm": {
+    "title": "Accessibility statement.htm",
+    "description": "Accessibility statement for Introduction to Data Quality course - html version",
+    "tags": []
+  },
+  "bf7ae4f89e5cae2d6b89ac36e42dec6aa6c0b779.png": {
+    "title": "factual qus.png",
+    "description": "factual qus",
+    "tags": []
+  },
+  "0e00704b86534deb930588342b2ddcf873c158e4.png": {
+    "title": "attitidinalqus.png",
+    "description": "Attitudinal qus",
+    "tags": []
+  },
+  "1a4c37f0c5f19969b77f67c21e293358fe66c3d1.png": {
+    "title": "freetext.png",
+    "description": "free text",
+    "tags": []
+  },
+  "42ed7d2a0aff4767cceeda8cf1988816cc82859e.png": {
+    "title": "singlechoice.png",
+    "description": "single choice",
+    "tags": []
+  },
+  "41f52fb438d8c888182aa0d6d47eaffe9419260e.png": {
+    "title": "multiplechoice.png",
+    "description": "multiple choice",
+    "tags": []
+  },
+  "0dc0251f43814fb2027782785306053775c82ec2.png": {
+    "title": "ranked.png",
+    "description": "ranked",
+    "tags": []
+  },
+  "b807a9e58a100fa8aaccad6d37de903927e7ec63.png": {
+    "title": "scales.png",
+    "description": "scales",
+    "tags": []
+  },
+  "2a916c9bf76aef6653e2863cd124736cf6f803e0.png": {
+    "title": "matrix.png",
+    "description": "matrix",
+    "tags": []
+  },
+  "d7f5f6d28b7bd9a81ddba6127df796674eb570cb.png": {
+    "title": "dropdown.png",
+    "description": "dropdown",
+    "tags": []
+  },
+  "14abc79a766b16f70fcf79137c0277cf1a253db3.png": {
+    "title": "numerical.png",
+    "description": "numerical fields",
+    "tags": []
+  },
+  "2c10b2db0e844bf16f35208aca8e946f5aac8fa3.png": {
+    "title": "satisficing.png",
+    "description": "satisficing",
+    "tags": []
+  },
+  "7ef14d435bfb42cdfa50a0d18464f80cd118677e.png": {
+    "title": "socialdesirability.png",
+    "description": "social desirability",
+    "tags": []
+  },
+  "668c27a7c2bca1132aaf25f0671b647287c07166.PNG": {
+    "title": "quanttesting.PNG",
+    "description": "quantitative testing flow chart",
+    "tags": []
+  }
+}
