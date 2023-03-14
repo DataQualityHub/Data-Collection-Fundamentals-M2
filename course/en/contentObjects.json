@@ -9,7 +9,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "2 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -36,6 +36,10 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
@@ -54,7 +58,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -79,11 +93,11 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This section will introduce:&nbsp;​</p><ul><li><p>customer requirements and conceptualisations: how to develop clear&nbsp;concepts and definitions for your survey questions​</p></li><li><p>questionnaire design best practice: stages of questionnaire design and&nbsp;question design principles</p></li></ul><p>&nbsp;</p><p><strong>Note that whilst this module is based on survey design, the underlying principles can be&nbsp;applied more widely, for example, when designing questions for interviews or when&nbsp;developing question fields for an online service. We have given the example of survey design&nbsp;to help contextualise the information provided.&nbsp;</strong></p>",
+    "pageBody": "<p>This section will introduce:&nbsp;​</p><ul><li><p>customer requirements and conceptualisations: how to develop clear&nbsp;concepts and definitions for your survey questions​</p></li><li><p>questionnaire design best practice: stages of questionnaire design and&nbsp;question design principles</p></li></ul><p>&nbsp;</p><p>Note that whilst this module is based on survey design, the underlying principles can be&nbsp;applied more widely, for example, when designing questions for interviews or when&nbsp;developing question fields for an online service. We have given the example of survey design&nbsp;to help contextualise the information provided.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "5 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -171,7 +185,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "15 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -198,6 +212,10 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
@@ -216,7 +234,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -245,7 +273,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "15 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -329,11 +357,11 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This section gives an overview of the potential stages of quantitative&nbsp;evaluation and testing during survey development.&nbsp;</p><p>The flow&nbsp;chart&nbsp;below highlights the potential stages of evaluation and testing during survey development. On the left hand&nbsp;side&nbsp;you can see how the survey develops iteratively. At each&nbsp;stage&nbsp;the testing tends to increase in scale.​&nbsp;</p><p>The larger, white boxes highlight the stage of the survey&nbsp;design, whilst the smaller, blue boxes highlight the potential testing at that stage.&nbsp;</p>",
+    "pageBody": "<p>This section gives an overview of the potential stages of quantitative&nbsp;evaluation and testing during survey development.&nbsp;</p><p>The flow&nbsp;chart&nbsp;below highlights the potential stages of evaluation and testing during survey development. On the left hand&nbsp;side, you can see how the survey develops iteratively. At each&nbsp;stage, the testing tends to increase in scale.​&nbsp;</p><p>The larger, white boxes highlight the stage of the survey&nbsp;design, whilst the smaller, blue boxes highlight the potential testing at that stage.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "10 mins",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -360,6 +388,10 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
@@ -378,7 +410,17 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -407,7 +449,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "1 min",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
